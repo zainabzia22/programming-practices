@@ -24,7 +24,7 @@ const grades = students.map(student => {
   if (student.marks >= 80) {
     grade = "A";
   } else if (student.marks >= 70) {
-    grade = "B";
+    grade = "B"; 
   } else if (student.marks >= 60) {
     grade = "C";
   } else if (student.marks >= 50) {
