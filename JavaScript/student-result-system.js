@@ -16,7 +16,7 @@ const passedStudents = students.filter(student => student.marks >= 50);
 console.log("\nPassed Students:");
 passedStudents.forEach(student => {
   console.log(student.name);
-});
+}); 
 // Grades
 const grades = students.map(student => {
   let grade;
