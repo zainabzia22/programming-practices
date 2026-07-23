@@ -1,5 +1,3 @@
-// ATM Simulation
-
 let balance = 1000;
 let choice;
 
