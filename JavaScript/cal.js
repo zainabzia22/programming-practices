@@ -20,4 +20,4 @@ else {
     result = "Invalid operator";
 }
 
-console.log("Result:", result);
+console.log("Result:", result
