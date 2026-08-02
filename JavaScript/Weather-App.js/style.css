@@ -1,0 +1,36 @@
+body{
+    font-family: Arial, sans-serif;
+    background:#3498db;
+}
+
+.container{
+    width:400px;
+    margin:40px auto;
+    background:white;
+    padding:20px;
+    border-radius:10px;
+    text-align:center;
+}
+
+input{
+    width:70%;
+    padding:10px;
+}
+
+button{
+    padding:10px 15px;
+    cursor:pointer;
+}
+
+#weather{
+    margin-top:20px;
+}
+
+ul{
+    list-style:none;
+    padding:0;
+}
+
+li{
+    padding:5px;
+}
