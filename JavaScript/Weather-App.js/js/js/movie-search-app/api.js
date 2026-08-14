@@ -31,4 +31,4 @@ export const searchMovies = async (query) => {
 
         throw error;
     }
-};
+};git
